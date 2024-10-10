@@ -1,0 +1,14 @@
+/* src/components/Gallery.css */
+.gallery-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 450px; /* Adjust height as needed */
+  }
+  
+  .gallery-item img {
+    width: 100%;
+    height: auto;
+    object-fit: cover; /* Maintain aspect ratio */
+  }
+  

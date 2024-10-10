@@ -1,0 +1,71 @@
+/* Navbar styling */
+.navbar {
+    background-color: #ffffff;
+    border-bottom: 1px solid #e1e4e8;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .nav-link {
+    font-size: 16px;
+    font-weight: 500;
+    margin-right: 15px;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 20px;
+  }
+  
+  /* Profile card */
+  .profile-card {
+    padding: 20px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-img {
+    width: 80px;
+    height: 80px;
+  }
+  
+  .profile-card h5 {
+    font-weight: 700;
+  }
+  
+  /* Sidebar */
+  .sidebar {
+    padding: 20px;
+  }
+  
+  /* Feed styling */
+  .feed {
+    padding: 20px;
+  }
+  
+  .feed-item {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .feed-header img {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .feed-header .ml-3 {
+    margin-left: 15px;
+  }
+  
+  .feed-actions {
+    margin-top: 10px;
+  }
+  
+  .feed-actions button {
+    width: 100px;
+  }
+  
+  /* Right sidebar */
+  .sidebar .card {
+    margin-bottom: 20px;
+  }
+  
